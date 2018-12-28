@@ -13,4 +13,6 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
 
 **problema_3_sol.ipynb** - solução do programa citado item 4.
 
-**feijoa.xlsx**, **altura.xlsx**, **imoveis2.xlsx** - bases de dados solicitados nos problemas.
+**feijoa.xlsx**, **altura.xlsx**, **imoveis2.xlsx** - bases de dados solicitados nos problemas acima.
+
+**Iris.ipynb** - Análise descritiva do conjunto de dados Iris (em construção)
