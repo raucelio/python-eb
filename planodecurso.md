@@ -6,11 +6,13 @@ Introduzir as noções básicas de estatística. Capacitar o aluno para ler, int
 organizar dados em tabelas e gráficos. Desenvolver a capacidade de interpretação de
 dados estatísticos e análise crítica de informações. Capacitar o aluno calcular medidas
 estatísticas e elaborar gráficos com o objetivo de avaliar as informações contidas em
-grande conjunto de dados, por meio do software R
+grande conjunto de dados, por meio do software R ou Python/Pandas
 
 ## Garga horária: 16  horas
 
 ## Horários: 19:30-20:50 e 21:00-22:30
+
+## Local: Sala de treinamento da Inferir
 
 ## Habilidades: Ao final do curso o aluno será capaz de:
 
