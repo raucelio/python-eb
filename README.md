@@ -17,4 +17,4 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
 
 8. **Iris.ipynb** - Análise descritiva do conjunto de dados Iris (em construção).
 
-9. **planodeaula** - Objetivo, ementa e outras informações sobre o curso.
+9. **planodecurso** - Objetivo, ementa, plano de curso e outras informações sobre o curso.
