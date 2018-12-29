@@ -15,4 +15,6 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
 
 7. **feijoa.xlsx**, **altura.xlsx**, **imoveis2.xlsx** - bases de dados solicitados nos problemas acima.
 
-8. **Iris.ipynb** - Análise descritiva do conjunto de dados Iris (em construção)
+8. **Iris.ipynb** - Análise descritiva do conjunto de dados Iris (em construção).
+
+9. **planodeaula** - Objetivo, ementa e outras informações sobre o curso.
