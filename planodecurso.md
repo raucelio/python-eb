@@ -1,6 +1,6 @@
-#Curso de Estatística Básica
+# Curso de Estatística Básica
 
-##Objetivo: 
+## Objetivo: 
 
 Introduzir as noções básicas de estatística. Capacitar o aluno para ler, interpretar e
 organizar dados em tabelas e gráficos. Desenvolver a capacidade de interpretação de
@@ -8,11 +8,11 @@ dados estatísticos e análise crítica de informações. Capacitar o aluno calc
 estatísticas e elaborar gráficos com o objetivo de avaliar as informações contidas em
 grande conjunto de dados, por meio do software R
 
-##Garga horária: 16  horas
+## Garga horária: 16  horas
 
-##Horários: 19:30-20:50 e 21:00-22:30
+## Horários: 19:30-20:50 e 21:00-22:30
 
-##Habilidades: Ao final do curso o aluno será capaz de:
+## Habilidades: Ao final do curso o aluno será capaz de:
 
 1. ler bases de dados no formato txt e xls;
 
@@ -29,9 +29,9 @@ grande conjunto de dados, por meio do software R
 7. operar basicamente o jupyter notebook.
 
 
-##Ementa:
+## Ementa:
 
-Unidade I
+### Unidade I
 a. Estatística: Descritiva/Inferencial/Probabilística
 
 b. Variáveis quantitativas e qualitativas
@@ -44,7 +44,7 @@ b. Funções estatísticas
 
 c. Funções gráficas
 
-Unidade II: Tipos de dados
+### Unidade II: Tipos de dados
 
 a. Dados Brutos Rol;
 
@@ -54,8 +54,37 @@ c. Frequência: Simples, Relativa, Acumulada e Relativa acumulada
 
 d. Histograma
 
-Unidade III: Medidas de Tendência Central
+#### Unidade III: Medidas de Tendência Central
 
 a. Média
 
 b. Moda
+
+### Unidade IV: Medidas de Dispersão
+
+a. Variância
+
+b. Desvio Padrão
+
+c. Coeficiente de Variação
+
+### Unidade V: Separatrizes
+a. Conceitos
+
+### Unidade VI: Gráficos
+
+a. Conceitos
+
+b. Tipos
+
+### Unidade VII - Correlação e Regressão
+a. Conceitos básicos.
+
+b. Coeficiente de correlação linear.
+
+c. Retas de Regressão. Proporção de variação explicada. Outros
+coeficientes de regressão
+
+d. Aplicações.
+
+
