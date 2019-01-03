@@ -6,7 +6,7 @@ Introduzir as noções básicas de estatística. Capacitar o aluno para ler, int
 organizar dados em tabelas e gráficos. Desenvolver a capacidade de interpretação de
 dados estatísticos e análise crítica de informações. Capacitar o aluno calcular medidas
 estatísticas e elaborar gráficos com o objetivo de avaliar as informações contidas em
-grande conjunto de dados, por meio do software R ou Python/Pandas
+grande conjunto de dados, por meio do software Python/Pandas
 
 ## Garga horária: 16  horas
 
@@ -18,9 +18,9 @@ grande conjunto de dados, por meio do software R ou Python/Pandas
 
 1. ler bases de dados no formato txt e xls;
 
-2. obter estatísticas descritivas básica para variáveis numericas;
+2. obter estatísticas descritivas básicas para variáveis numericas;
 
-3. obter freuencias simples e acumuladas para variáveis categoricas e numéricas (discretas e contínuas);
+3. obter frequências simples e acumuladas para variáveis categoricas e numéricas (discretas e contínuas);
 
 4. gerar gráficos de barras, dispersão e boxplot;
 
@@ -80,6 +80,7 @@ a. Conceitos
 b. Tipos
 
 ### Unidade VII - Correlação e Regressão
+
 a. Conceitos básicos.
 
 b. Coeficiente de correlação linear.
