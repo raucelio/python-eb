@@ -19,4 +19,26 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
 
 9. **planodecurso** - Objetivo, ementa, plano de curso e outras informações sobre o curso.
 
-<font color="red">   - Material do Curso </font>
+#   Material do Curso 
+
+**OBS:** O A indica arquivo do aluno e o B indica o arquivo de apoio ao professor.
+
+1. **Aula01_pandas_import_df_A.ipynb** -
+
+2. **Aula01_pandas_import_df_P.ipynb** -
+
+3. **Aula02_AirPassengers_A.ipynb** -
+
+4. **Aula02_AirPassengers_P.ipynb** -
+
+5. **Aula03_primary_results_A.ipynb** -
+
+6. **Aula03_primary_results_P.ipynb** -
+
+7. **Aula04_nba_salary_A.ipynb** -
+
+8. **Aula04_nba_salary_P.ipynb** -
+
+9. **Aula05_tips_A.ipynb** -
+
+10. **Aula05_tips_B.ipynb** -
