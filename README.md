@@ -20,11 +20,9 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
 9. **planodecurso** - Objetivo, ementa, plano de curso e outras informações sobre o curso.
 
 
-```html
 
 <h1>  Material do Curso </h1> 
 
-```
 **OBS:** O A indica arquivo do aluno e o B indica o arquivo de apoio ao professor.
 
 1. **Aula01_pandas_import_df_A.ipynb** -
