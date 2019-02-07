@@ -20,29 +20,34 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
 9. **planodecurso** - Objetivo, ementa, plano de curso e outras informações sobre o curso.
 
 <h1>
-<font color="red">
   Material do Curso 
-</font>
 </h1>
 
 **OBS:** O A indica arquivo do aluno e o B indica o arquivo de apoio ao professor.
 
-1. **Aula01_pandas_import_df_A.ipynb** -
+1. **Aula01_pandas_import_df_A.ipynb** - Leitura de arquivos **csv**, **txt** e **xlsx**. Comandos básicos para exploração de dataframes : **shape**, **head**, **tail** e **count**. 
 
-2. **Aula01_pandas_import_df_P.ipynb** -
+2. **Aula01_pandas_import_df_P.ipynb** - Auxílio  da Aula01 para o professor.
 
-3. **Aula02_AirPassengers_A.ipynb** -
+3. **Aula02_AirPassengers_A.ipynb** - Utiliza o total mensal de assageiros de avião de 1949 a 1960 de uma empresa áerea para:
+  + importar os módulos Pandas e Pydataset;
+  + selecionar observações (linhas) utilizando o `iloc[:]`.
+  + tipos de dados `dtypes`;
+  + série de tempo: `data_range` 
 
-4. **Aula02_AirPassengers_P.ipynb** -
+
+
+4. **Aula02_AirPassengers_P.ipynb** - Auxílio  da Aula02 para o professor.
 
 5. **Aula03_primary_results_A.ipynb** -
 
-6. **Aula03_primary_results_P.ipynb** -
+6. **Aula03_primary_results_P.ipynb** - Auxílio  da Aula03 para o professor.
 
 7. **Aula04_nba_salary_A.ipynb** -
 
-8. **Aula04_nba_salary_P.ipynb** -
+8. **Aula04_nba_salary_P.ipynb** - Auxílio  da Aula04 para o professor.
 
 9. **Aula05_tips_A.ipynb** -
 
-10. **Aula05_tips_B.ipynb** -
+10. **Aula05_tips_B.ipynb** - Auxílio  da Aula05 para o professor.
+
