@@ -20,8 +20,9 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
 9. **planodecurso** - Objetivo, ementa, plano de curso e outras informações sobre o curso.
 
 
-
+<font color="red">
 <h1>  Material do Curso </h1> 
+</font>
 
 **OBS:** O A indica arquivo do aluno e o B indica o arquivo de apoio ao professor.
 
