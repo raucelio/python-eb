@@ -24,6 +24,7 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
   Material do Curso 
 </font>
 </h1>
+
 **OBS:** O A indica arquivo do aluno e o B indica o arquivo de apoio ao professor.
 
 1. **Aula01_pandas_import_df_A.ipynb** -
