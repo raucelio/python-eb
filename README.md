@@ -33,13 +33,23 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
   + importar os módulos Pandas e Pydataset;
   + selecionar observações (linhas) utilizando o `iloc[:]`.
   + tipos de dados `dtypes`;
-  + série de tempo: `data_range` 
-
-
+  + série de tempo: datas como índices, timestamp, datetime 
+  + elaborar gráficos de linha, histogram e boxplot;
+  + customizar gráficos
+  + sobrepor gráficos, subgráficos
+  + salvar gráficos
 
 4. **Aula02_AirPassengers_P.ipynb** - Auxílio  da Aula02 para o professor.
 
-5. **Aula03_primary_results_A.ipynb** -
+5. **Aula03_primary_results_A.ipynb** - Dados sobre as eleições americanas de 2016.
+   + eliminar colunas;
+   + ordenar valores;
+   + extrair valores unicos;
+   + eliminar espaços em brancos extras;
+   + funções estatísticas;
+   + agrupamento de dados;
+   + renomear colunas (variáveis);
+   + gráficos de barras (matplotlib e seaborn);
 
 6. **Aula03_primary_results_P.ipynb** - Auxílio  da Aula03 para o professor.
 
