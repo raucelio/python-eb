@@ -22,7 +22,7 @@ Estes arquivos são exercícios de estatística básica para serem feitos no pyt
 
 ```html
 
-<h1 font = "red">  Material do Curso <h1/> 
+<h1>  Material do Curso </h1> 
 
 ````
 **OBS:** O A indica arquivo do aluno e o B indica o arquivo de apoio ao professor.
